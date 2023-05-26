@@ -1,10 +1,9 @@
 [![MasterHead](https://media.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif)](https://github.com/mihalazmaeen)
 <h1 align="center">Hi 👋, I'm Mihal Mohammad Azmaeen</h1>
 <h3 align="center">A noob Software Engineer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3911518/screenshots/11294230/media/c40ee1a764a5219e5866cc871fbcb9ae.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihalazmaeen&label=Profile%20views&color=0e75b6&style=flat" alt="mihalazmaeen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihalazmaeen" alt="mihalazmaeen" /></a> </p>
 
 - 🔭 I’m currently working on **Advanced Project Integration LTD**
