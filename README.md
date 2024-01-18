@@ -31,7 +31,7 @@
 - :computer: I am learning problem solving on `Codeforces`, & `Leetcode`.
 - :student: I have completed my graduation on `Computer Science and Engineering` from `East West University`.
 - :nerd_face: Always `learning new things`.
-- :thinking: This is [MY RESUME](https://shorturl.at/gkpCY).
+- :thinking: Here is [MY RESUME](https://shorturl.at/gkpCY).
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
