@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://m.blog.hu/kr/krisztusa/postimage/matrix_1338290178.gif" width="100%" height="300"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=As+Salamu+Alaikum;I+am+Mihal+MD+Azmaeen;Software+Engineer+%40API+LTD;Backend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=As+Salamu+Alaikum;I+am+Mihal+MD+Azmaeen;Software+Engineer+%40API+Solutions+LTD;Backend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
